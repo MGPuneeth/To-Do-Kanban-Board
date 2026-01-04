@@ -1,7 +1,7 @@
 # 🗂️ To-Do Kanban Board
 
 A simple **To-Do Kanban Board** web application built with **HTML, CSS, and JavaScript**.  
-This project lets you **organize tasks visually** across columns like _To Do_, _In Progress_, and _Completed_ — following the principles of a Kanban board workflow:contentReference[oaicite:1]{index=1}.
+This project lets you **organize tasks visually** across columns like _To Do_, _In Progress_, and _Completed_ — following the principles of a Kanban board workflow.
 
 ---
 
