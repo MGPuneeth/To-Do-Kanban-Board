@@ -7,7 +7,7 @@ This project lets you **organize tasks visually** across columns like _To Do_, _
 
 ## 🌐 Live Demo
 
-🔗 Play the game here:
+🔗 Visit the page here:
 https://mgpuneeth.github.io/To-Do-Kanban-Board/
 
 ---
